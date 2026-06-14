@@ -1,0 +1,7 @@
+# ビルド成果物
+/folder-agent
+/folder-agent.exe
+*.exe
+
+# テスト・カバレッジ
+*.out
