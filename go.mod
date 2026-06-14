@@ -1,6 +1,6 @@
 module github.com/srndpty/folder-agent
 
-go 1.26
+go 1.23
 
 require github.com/fsnotify/fsnotify v1.10.1
 
